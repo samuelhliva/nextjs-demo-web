@@ -1,0 +1,15 @@
+.hero {
+    min-width: 100svw;
+    min-height: 30svh;
+    height: 30%;
+    width: 100vw;
+
+    padding: 2rem 3.5rem;
+
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+
+    background: #015e82;
+    background: linear-gradient(40deg, rgba(1, 94, 130, 1) 0%, rgba(87, 199, 197, 1) 50%, rgba(83, 191, 237, 1) 100%);
+}
